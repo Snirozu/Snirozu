@@ -11,4 +11,4 @@ Hi, I like to eat sand. <br>
 <img title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48"/>,
 <img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paidyy&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snirozu&show_icons=true&theme=merko)
