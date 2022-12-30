@@ -1,6 +1,6 @@
 Hi, I like to eat sand. <br>
 
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="18"/> Discord = Paidyy#5122 <br>
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="18"/> Discord = Snirozu#5122 <br>
 <img src="https://user-images.githubusercontent.com/72814880/201487264-7b657448-85a9-4a54-8b8d-9331aa53adf4.png" width="18"> GameBanana = https://gamebanana.com/members/1782355 <br>
 <img src="https://www.newgrounds.com/downloads/designassets/assets/ng_logo.png" width="18"> Newgrounds = https://snirozu.newgrounds.com/
 
