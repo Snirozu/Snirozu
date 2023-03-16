@@ -10,6 +10,8 @@ Hi, I like to eat **sand**. <br>
 <img title="Java" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="48"/>,
 <img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48"/>,
 <img title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48"/>,
-<img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>
+<img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>,
+<img title="hell" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="48">,
+<img title="THE HOLY C !!!!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/1822px-HolyC_Logo.svg.png" width="48">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snirozu&show_icons=true&theme=merko)
