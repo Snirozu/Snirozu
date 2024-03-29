@@ -1,4 +1,4 @@
-Programmer, mostly **Friday Night Funkin'** stuff, currently working on **[Psych Online <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Psych-Online/main/art/icon32.png" width="18"/>](https://github.com/Snirozu/Funkin-Psych-Online)** and another *awesome* upcoming project. 
+Programmer, mostly **Friday Night Funkin'** stuff, currently working on **[Psych Online <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Psych-Online/main/art/icon32.png" width="18"/>](https://github.com/Snirozu/Funkin-Psych-Online)**
 <br> I don't know what else to say here so... I like to eat **sand**... <br>
 
 <details open>
