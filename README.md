@@ -14,7 +14,7 @@ Programmer, mostly **Friday Night Funkin'** stuff, currently working on **[Psych
 <summary> And other less active ones: </summary>
 <img src="https://assets.tumblr.com/pop/manifest/favicon-cfddd25f.svg" width="18"> Tumblr = https://www.tumblr.com/snirozu <br>
 <img src="https://www.newgrounds.com/downloads/designassets/assets/ng_logo.png" width="18"> Newgrounds = https://snirozu.newgrounds.com/ <br>
-<img src="https://bsky.app/static/favicon-32x32.png" width="18"> Bluesky = https://bsky.app/profile/snirozu.bsky.social <br>
+<img src="https://bsky.app/static/favicon-32x32.png" width="18"> Bluesky = https://bsky.app/profile/sniro.boo <br>
 <img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" width="18"> Reddit = https://www.reddit.com/user/Snirozu/ <br>
 </details>
 
