@@ -1,5 +1,5 @@
 I mainly do stuff in **[Haxe <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/240px-Haxe_logo.svg.png" width="13"/>](https://haxe.org/)**, in which I've made some popular stuff like **[Psych Online <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Psych-Online/main/art/icon32.png" width="18"/>](https://github.com/Snirozu/Funkin-Psych-Online)** and **[FNF VSCode Script AutoCompleter <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Script-AutoComplete/refs/heads/master/images/icon.png" width="24"/>](https://github.com/Snirozu/Funkin-Script-AutoComplete)** <br>
-Also I've made a *single* game titled **[KotWica <img src="https://raw.githubusercontent.com/Snirozu/hxjam24/refs/heads/main/assets/images/icon.png" width="15"/>](https://snirozu.itch.io/kotwica) for the [HaxeJam 2024 (Winter) <img src="https://raw.githubusercontent.com/haxejam/assets/refs/heads/master/logo/logo-without-text.png" width="15"/>](https://itch.io/jam/haxejam-2024-winter-jam)**
+Also, I've made some games for the semi-annual HaxeJam event on **[itch.io](https://snirozu.itch.io/)**
 
 <details open>
 
@@ -16,6 +16,7 @@ Also I've made a *single* game titled **[KotWica <img src="https://raw.githubuse
 <img src="https://assets.tumblr.com/pop/manifest/favicon-cfddd25f.svg" width="18"> Tumblr = https://www.tumblr.com/snirozu <br>
 <img src="https://bsky.app/static/favicon-32x32.png" width="18"> Bluesky = https://bsky.app/profile/sniro.boo <br>
 <img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" width="18"> Reddit = https://www.reddit.com/user/Snirozu/ <br>
+<img src="https://design.codeberg.org/logo-kit/icon_inverted.svg" width="18"> Codeberg = https://codeberg.org/Snirozu <br>
 </details>
 
 > ###### **Other profiles aren't (probably) mine!**
