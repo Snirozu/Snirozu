@@ -1,12 +1,12 @@
-I mainly do stuff in **[Haxe <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/240px-Haxe_logo.svg.png" width="13"/>](https://haxe.org/)**, in which I've made some popular stuff like **[Psych Online <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Psych-Online/main/art/icon32.png" width="18"/>](https://github.com/Snirozu/Funkin-Psych-Online)** and **[FNF VSCode Script AutoCompleter <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Script-AutoComplete/refs/heads/master/images/icon.png" width="24"/>](https://github.com/Snirozu/Funkin-Script-AutoComplete)** <br>
-Also, I've made some games for the semi-annual HaxeJam event on **[itch.io](https://snirozu.itch.io/)**
+I mainly do stuff in **[Haxe <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/240px-Haxe_logo.svg.png" width="13"/>](https://haxe.org/)**, in which I've made some stuff like **[Psych Online <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Psych-Online/main/art/icon32.png" width="18"/>](https://github.com/Snirozu/Funkin-Psych-Online)** and **[FNF VSCode Script AutoCompleter <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Script-AutoComplete/refs/heads/master/images/icon.png" width="24"/>](https://github.com/Snirozu/Funkin-Script-AutoComplete)** <br>
+Also, I've made some really bad games on **[itch.io](https://snirozu.itch.io/)**
 
 <details open>
 
 <summary> <b>You can find me there:</b> </summary>
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="18"/> Discord = @snirozu <br>
 <img src="https://user-images.githubusercontent.com/72814880/201487264-7b657448-85a9-4a54-8b8d-9331aa53adf4.png" width="18"> GameBanana = https://gamebanana.com/members/1782355 <br>
-<img src="https://www.newgrounds.com/downloads/designassets/assets/ng_logo.png" width="18"> Newgrounds = https://snirozu.newgrounds.com/ <br>
+<img src="https://www.newgrounds.com/favicon.ico" width="18"> Newgrounds = https://snirozu.newgrounds.com/ <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" width="18"/> Twitter = https://twitter.com/snirozu <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" width="18"> YouTube = https://www.youtube.com/@snirozu
 
