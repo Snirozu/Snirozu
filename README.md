@@ -1,9 +1,9 @@
-I mainly do stuff in **[Haxe <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/240px-Haxe_logo.svg.png" width="13"/>](https://haxe.org/)**, in which I've made some stuff like **[Psych Online <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Psych-Online/main/art/icon32.png" width="18"/>](https://github.com/Snirozu/Funkin-Psych-Online)** and **[FNF VSCode Script AutoCompleter <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Script-AutoComplete/refs/heads/master/images/icon.png" width="24"/>](https://github.com/Snirozu/Funkin-Script-AutoComplete)** <br>
+I mainly do stuff in **[Haxe <img src="https://haxe.org/favicon.ico" width="13"/>](https://haxe.org/)**, in which I've made some stuff like **[Psych Online <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Online-Server/refs/heads/main/client/public/images/locon.png" width="18"/>](https://github.com/Snirozu/Funkin-Psych-Online)** and **[FNF VSCode Script AutoCompleter <img src="https://raw.githubusercontent.com/Snirozu/Funkin-Script-AutoComplete/refs/heads/master/images/icon.png" width="24"/>](https://github.com/Snirozu/Funkin-Script-AutoComplete)** <br>
 Also, I've made some really bad games on **[itch.io](https://snirozu.itch.io/)**
 
 <details open>
 
-<summary> <b>You can find me there:</b> </summary>
+<summary> <b>You can catch me there:</b> </summary>
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="18"/> Discord = @snirozu <br>
 <img src="https://user-images.githubusercontent.com/72814880/201487264-7b657448-85a9-4a54-8b8d-9331aa53adf4.png" width="18"> GameBanana = https://gamebanana.com/members/1782355 <br>
 <img src="https://github.com/user-attachments/assets/cd5f38c3-41a4-4eb4-a95c-4c43169680f8" width="18"> Newgrounds = https://snirozu.newgrounds.com/ <br>
@@ -20,15 +20,6 @@ Also, I've made some really bad games on **[itch.io](https://snirozu.itch.io/)**
 </details>
 
 > ###### **Other profiles aren't (probably) mine!**
-</details>
-
-<details>
-<summary> <b>List of languages that I'm familiar with:<b> </summary>
-<img title="Haxe" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/240px-Haxe_logo.svg.png" width="48"/>,
-<img title="Java" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="48"/>,
-<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48"/>,
-<img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>
-<!-- <img title="THE HOLY C !!!!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/1822px-HolyC_Logo.svg.png" width="48"> -->
 </details>
 
 <p></p>
